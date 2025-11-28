@@ -1,2 +1,2 @@
 # validation-formulary
-Projeto desenvolvido para praticar conceitos de HTML, CSS e JavaScript, focado em estrutura limpa, responsividade e boas práticas. Inclui componentes modernos, layout organizado e funcionalidades simples que demonstram domínio da base do front-end.
+Projeto desenvolvido aplicando conceitos que venho estudando: HTML estruturado, CSS moderno, Flexbox, boas práticas, responsividade e organização do layout. Serve como demonstração da minha evolução no front-end e do meu processo de aprendizado.
